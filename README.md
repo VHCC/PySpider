@@ -1,3 +1,7 @@
+A Powerful Spider(Web Crawler) System in Python. http://docs.pyspider.org/
+forked from [here](https://github.com/binux/pyspider)
+---
+
 pyspider [![Build Status]][Travis CI] [![Coverage Status]][Coverage] [![Try]][Demo]
 ========
 
